@@ -10,4 +10,4 @@ $ ruby server.rb
 
 ## License
 
-No license, use it at your own risk, but you should not be using it! Try it on your own!
+No license, use it at your own risk, but you should not be using it! You should also write your own for fun!
